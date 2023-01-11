@@ -29,8 +29,8 @@ This is a solution to the [Javascript Quiz Project](https://jsbeginners.com/java
 
 ### Links
 
-- Solution URL: [https://github.com/traez/digital-clock-countdown-timer-javascript-project](https://github.com/traez/digital-clock-countdown-timer-javascript-project)
-- Live Site URL: [https://traez.github.io/digital-clock-countdown-timer-javascript-project/](https://traez.github.io/digital-clock-countdown-timer-javascript-project/)
+- Solution URL: [https://github.com/traez/javascript-quiz-project](https://github.com/traez/javascript-quiz-project)
+- Live Site URL: [https://traez.github.io/javascript-quiz-project/](https://traez.github.io/javascript-quiz-project/)
 
 ## My process
 
